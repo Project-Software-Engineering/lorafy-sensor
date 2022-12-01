@@ -1,1 +1,3 @@
-"# lorafy-sensor" 
+# lorafy-sensor
+
+LoRaFy sensor repository.
